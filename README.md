@@ -31,6 +31,6 @@ Entregáveis: [Descrição da Ontologia](https://github.com/josmadelmodavi/web-s
 
 - Instituição: [Centro Universitário Paraíso - UniFAP](https://www.fapce.edu.br)
 - Pós-Graduação: Desenvolvimento Web
-- Disciplina: Web Semântica (Mód. 14)
+- Disciplina: Web Semântica (Mód. 16)
 - Data: 01, 15 e 16 de agosto de 2020
 - Professor: [Eduardo Mendes](https://github.com/dudumendes)
