@@ -1,57 +1,36 @@
-# CodeIgniter 4 Framework
+# Web Semântica
 
-## What is CodeIgniter?
+> Atividade de pós-graduação.
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. 
-More information can be found at the [official site](http://codeigniter.com).
+**1. Desenho de grafo**
+A partir de 5 classes definidas no [Schema.org](https://schema.org/) criar a modelagem do grafo com:
+- Nós
+- Relações
+- Propriedades
 
-This repository holds the distributable version of the framework,
-including the user guide. It has been built from the 
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+Entregável: [Grafo](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-1-grafo.jpg)
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+**2. Geração de grafo**
+A partir dos grafos gerados da tarefa 1 criar códigos na ferramenta [RDFa / Play](http://rdfa.info/play/).
 
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/). 
+Entregáveis: [Código](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-2-RDFa.html) + [Grafo](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-2-grafo.jpg)
 
+**3. Códigos utilizando JSON-LD**
+A partir dos códigos da tarefa 2, criar os códigos em JSON-LD e validar na ferramenta [Google / Rich Results](https://search.google.com/test/rich-results).
 
-## Important Change with index.php
+Entregável: [Código](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-3-json-ld(erro).json)
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+**4. Criação de Ontologia Pokémon Go**
+Entregáveis:
+[Descrição da Ontologia](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/home.php)
+[RDFa com a Ontologia](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/rdfa.php)
+[JSON-LD (01) com a Ontologia](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/json-ld-01.php)
+[JSON-LD (02) com a Ontologia](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/json-ld-02.php)
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
+## Informações da Pós-Graduação
 
-**Please** read the user guide for a better explanation of how CI4 works!
-The user guide updating and deployment is a bit awkward at the moment, but we are working on it!
-
-## Repository Management
-
-We use Github issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script. 
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Contributing
-
-We welcome contributions from the community.
-
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/contributing.md) section in the development repository.
-
-## Server Requirements
-
-PHP version 7.2 or higher is required, with the following extensions installed: 
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
+- Instituição: [Centro Universitário Paraíso - UniFAP](https://www.fapce.edu.br)
+- Pós-Graduação: Desenvolvimento Web
+- Disciplina: Web Semântica (Mód. 14)
+- Data: 01, 15 e 16 de agosto de 2020
+- Professor: [Eduardo Mendes](https://github.com/dudumendes)
