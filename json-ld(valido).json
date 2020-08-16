@@ -1,0 +1,111 @@
+[
+	{
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "WebSite",
+				"@id": "http://dbpedia.org/",
+				"url": "http://dbpedia.org/page/Padre_Cícero",
+				"name": "Padre Cícero",
+				"birthDate": "1844",
+				"birthPlace": "Crato",
+				"potentialAction": [
+					{
+						"@type": "SearchAction",
+						"target": "http://dbpedia.org/page/{search_term_string}",
+						"query-input": "required name=search_term_string"
+					}
+				],
+				"inLanguage": "pt-BR"
+			}
+		]
+	},
+
+	{
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "WebSite",
+				"@id": "http://dbpedia.org/",
+				"url": "http://dbpedia.org/page/Patativa_do_Assaré",
+				"name": "Patativa do Assare",
+				"birthDate": "1909",
+				"birthPlace": "Assaré",
+				"potentialAction": [
+					{
+						"@type": "SearchAction",
+						"target": "http://dbpedia.org/page/{search_term_string}",
+						"query-input": "required name=search_term_string"
+					}
+				],
+				"inLanguage": "pt-BR"
+			}
+		]
+	},
+
+	{
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "WebSite",
+				"@id": "http://dbpedia.org/",
+				"url": "http://dbpedia.org/page/Belchior_(singer)",
+				"name": "Belchior",
+				"birthDate": "1946",
+				"birthPlace": "Sobral",
+				"potentialAction": [
+					{
+						"@type": "SearchAction",
+						"target": "http://dbpedia.org/page/{search_term_string}",
+						"query-input": "required name=search_term_string"
+					}
+				],
+				"inLanguage": "pt-BR"
+			}
+		]
+	},
+
+	{
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "WebSite",
+				"@id": "http://dbpedia.org/",
+				"url": "http://dbpedia.org/page/Humberto_de_Alencar_Castelo_Branco",
+				"name": "Castelo Branco",
+				"birthDate": "1897",
+				"birthPlace": "Fortaleza",
+				"potentialAction": [
+					{
+						"@type": "SearchAction",
+						"target": "http://dbpedia.org/page/{search_term_string}",
+						"query-input": "required name=search_term_string"
+					}
+				],
+				"inLanguage": "pt-BR"
+			}
+		]
+	},
+
+	{
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "WebSite",
+				"@id": "http://dbpedia.org/",
+				"url": "http://dbpedia.org/page/José_Wilker",
+				"name": "José Wilker",
+				"birthDate": "1944",
+				"birthPlace": "Juazeiro do Norte",
+				"potentialAction": [
+					{
+						"@type": "SearchAction",
+						"target": "http://dbpedia.org/page/{search_term_string}",
+						"query-input": "required name=search_term_string"
+					}
+				],
+				"inLanguage": "pt-BR"
+			}
+		]
+	}
+]

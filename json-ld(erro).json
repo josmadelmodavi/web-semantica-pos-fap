@@ -1,0 +1,46 @@
+[
+	{
+		"@context": "http://schema.org/",
+		"@type": "Person",
+		"@id": "http://dbpedia.org/page/Padre_Cícero",
+		"name": "Padre Cícero",
+		"birthDate": "1844-03-24",
+		"birthPlace": "Crato"
+	},
+
+	{
+		"@context": "http://schema.org/",
+		"@type": "Person",
+		"@id": "http://dbpedia.org/page/Patativa_do_Assaré",
+		"name": "Patativa do Assaré",
+		"birthDate": "1844-03-24",
+		"birthPlace": "Crato"
+	},
+
+	{
+		"@context": "http://schema.org/",
+		"@type": "Person",
+		"@id": "http://dbpedia.org/page/Belchior_(singer)",
+		"name": "Belchior",
+		"birthDate": "1946-10-26",
+		"birthPlace": "Sobral"
+	},
+
+	{
+		"@context": "http://schema.org/",
+		"@type": "Person",
+		"@id": "http://dbpedia.org/page/Humberto_de_Alencar_Castelo_Branco",
+		"name": "Castelo Branco",
+		"birthDate": "1897-09-20",
+		"birthPlace": "Fortaleza"
+	},
+
+	{
+		"@context": "http://schema.org/",
+		"@type": "Person",
+		"@id": "http://dbpedia.org/page/José_Wilker",
+		"name": "José Wilker",
+		"birthDate": "1944-08-20",
+		"birthPlace": "Juazeiro do Norte"
+	}
+]
