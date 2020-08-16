@@ -25,7 +25,7 @@ Entregável: [Código](https://github.com/josmadelmodavi/web-semantica-pos-fap/b
 
 **4. Criação de Ontologia Pokémon Go**
 
-Entregáveis: [Descrição da Ontologia](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/home.php) + [Código RDFa](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/rdfa.php) + [Grafo RDFa](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-4-grafo-rdfa.jpg) + [JSON-LD (01)](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/json-ld-01.php) + [JSON-LD (02)](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/json-ld-02.php)
+Entregáveis: [Descrição da Ontologia](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/home.php) + [Grafo](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-4-grafo.jpg) + [Código RDFa](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/rdfa.php) + [Grafo RDFa](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/questao-4-grafo-rdfa.jpg) + [JSON-LD (01)](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/json-ld-01.php) + [JSON-LD (02)](https://github.com/josmadelmodavi/web-semantica-pos-fap/blob/master/app/Views/json-ld-02.php)
 
 ## Informações da Pós-Graduação
 
